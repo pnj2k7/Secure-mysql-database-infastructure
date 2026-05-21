@@ -43,3 +43,55 @@ Primary MySQL Server
 Read Replica MySQL Server
 Backup System
 Audit Logging System
+
+
+Project Structure:
+architecture/        -> System diagrams
+sql_scripts/         -> Database SQL files
+configurations/      -> MySQL & HAProxy configs
+screenshots/         -> Evidence screenshots
+reports/             -> Final coursework reports
+documentation/       -> Setup and security documentation
+
+
+Technologies Used:
+MySQL	- Database management
+CentOS - Stream	Operating system
+HAProxy - Load balancing
+MySQL Workbench - Database administration
+
+
+Implemented Security Models
+DAC (Discretionary Access Control)
+RBAC (Role-Based Access Control)
+MAC Simulation (Mandatory Access Control)
+
+
+High Availability Features:
+MySQL Replication
+Read Scalability
+Failover Design
+HAProxy Load Balancing
+
+
+Compliance
+This implementation was reviewed against:
+ISO/IEC 27001 Security Standard
+
+
+Author
+H M A P N L JAYAWICKRAMA
+BSc (Hons) Network Engineering and Ethical Hacking
+
+
+Learning Outcomes
+
+This project demonstrates practical skills in:
+Database Security
+Linux Administration
+Access Control
+Secure Authentication
+Threat Mitigation
+Infrastructure Hardening
+High Availability Design
+Security Auditing
